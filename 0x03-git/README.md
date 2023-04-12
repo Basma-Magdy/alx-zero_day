@@ -1,1 +1,1 @@
-Not empty file
+Not an empty file
